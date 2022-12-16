@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test Page</title>
+<head>
+<body>
+	<h1>TEST PAGE!!</h1> 
+	<p> <b>PARAGRAPH</b> Element! Type a bunch of shit here!!<p>
+	<a href="https://google.com" target="_blank" title=" Letsdothisshit! " >CLICK ME I'M A WHOLE ASS LINK!!"</a>
+	<h1><img src=imagesbunny.jpeg></h1
+	<p>My Name Is:<br>
+	SnowFlake<p>
+	<h1><b>Cute Ass Bunny!!<b></h1>
+<body>
+<html>
